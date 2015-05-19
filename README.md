@@ -6,3 +6,4 @@
 - [apery - GitHub](https://github.com/HiraokaTakuya/apery)
 - [The Universal Shogi Interface, draft 1 (2007-01-24)](http://www.glaurungchess.com/shogi/usi.html)
 - [USIプロトコルとは](http://www.geocities.jp/shogidokoro/usi.html)
+- [shogi-server](http://shogi-server.osdn.jp/)

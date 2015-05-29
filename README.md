@@ -7,3 +7,4 @@
 - [The Universal Shogi Interface, draft 1 (2007-01-24)](http://www.glaurungchess.com/shogi/usi.html)
 - [USIプロトコルとは](http://www.geocities.jp/shogidokoro/usi.html)
 - [shogi-server](http://shogi-server.osdn.jp/)
+- [kif形式詳細](http://d.hatena.ne.jp/mozuyama/20030909/p5)
